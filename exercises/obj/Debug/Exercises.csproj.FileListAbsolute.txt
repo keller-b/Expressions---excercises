@@ -1,0 +1,11 @@
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises\bin\Debug\Exercises.dll
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises\obj\Debug\Exercises.dll
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises\obj\Debug\Exercises.pdb
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises\obj\Debug\Exercises.dll
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises\obj\Debug\Exercises.pdb
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises\bin\Debug\Exercises.dll
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises\bin\Debug\Exercises.pdb

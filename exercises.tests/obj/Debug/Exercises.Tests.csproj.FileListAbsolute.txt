@@ -1,0 +1,17 @@
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Exercises.Tests.dll
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Exercises.Tests.pdb
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Exercises.dll
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Exercises.pdb
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.dll
+C:\Users\bkeller\Desktop\benjaminkeller-c-exercises\M1W1D3-expressions-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.pdb
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Exercises.Tests.dll
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Exercises.Tests.pdb
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Exercises.dll
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\bin\Debug\Exercises.pdb
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.dll
+C:\Users\bedake\Desktop\M1W1D3-expressions-exercises\Exercises.Tests\obj\Debug\Exercises.Tests.pdb
